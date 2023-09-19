@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">哔哩哔哩</string>
+    <string name="action_settings">设置</string>
+    <string name="first_fragment_label">第一页</string>
+    <string name="second_fragment_label">第二页</string>
+    <string name="next">下一个</string>
+    <string name="previous">上一个</string>
+    <string name="main_page">主页</string>
+</resources>
